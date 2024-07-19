@@ -4,6 +4,7 @@
 * pb n j sandwich
 * mandarin orange
 * white bean and kale soup
+* caniac
 
 2024-07-17
 ----

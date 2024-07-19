@@ -1,6 +1,7 @@
 2024-07-19
 ----
 * grilled cheese
+* gyro/chicken over rice/fries
 
 2024-07-18
 ----

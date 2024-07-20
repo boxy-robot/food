@@ -2,6 +2,8 @@
 ----
 * grilled cheese
 * gyro/chicken over rice/fries
+* ice cream
+* white bean and kale soup
 
 2024-07-18
 ----

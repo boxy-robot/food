@@ -27,3 +27,4 @@ Directions
 * Add rosemary and cook quickly.
 * Add white beans, stock, kale, and red pepper flakes to taste.
 * Bring to a simmer and cook for 30m.
+* After removing from heat, add romano and stir in to melt with the residual heat.

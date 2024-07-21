@@ -1,7 +1,7 @@
 2024-07-20
 ----
 * sourdough and butter
-*
+* pot roast over rice with sourdough
 
 2024-07-19
 ----

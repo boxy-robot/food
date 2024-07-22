@@ -1,5 +1,15 @@
 # Food Log
 
+## 2024-07-22
+
+- Sourdough and butter
+
+## 2024-07-21
+
+- Banana, strawberry, avocado smoothie
+- Sourdough and butter
+- Pizza
+
 ## 2024-07-20
 
 - Sourdough and butter

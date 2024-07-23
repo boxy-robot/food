@@ -1,8 +1,12 @@
 # Food Log
 
+## 2024-07-23
+
 ## 2024-07-22
 
 - Sourdough and butter
+- White bean soup
+- Pot roast
 
 ## 2024-07-21
 

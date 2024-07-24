@@ -1,5 +1,11 @@
 # Food Log
 
+## 2024-07-24
+
+- Peaches
+- Beef jerky
+- Tuna sandwich
+
 ## 2024-07-23
 
 ## 2024-07-22

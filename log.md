@@ -8,6 +8,13 @@
 
 ## 2024-07-23
 
+- Banana peanut butter shake
+- Beef jerky
+- Peach
+- Wendy's burger and fries
+- Wendy's chicken nuggets
+- Grilled catfish with elotes
+
 ## 2024-07-22
 
 - Sourdough and butter

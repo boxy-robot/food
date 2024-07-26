@@ -1,10 +1,23 @@
 # Food Log
 
+## 2024-07-26
+
+- Banana peanut butter shake
+- Roast beef sandwich
+
+## 2024-07-25
+
+- Sourdough and butter
+- Korean fried chicken nuggets
+- Peanut butter and jelly sandwich
+- Korean short ribs over rice with mandu and banchan
+
 ## 2024-07-24
 
 - Peaches
 - Beef jerky
 - Tuna sandwich
+- Korean fried chicken nuggets
 
 ## 2024-07-23
 

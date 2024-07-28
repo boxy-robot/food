@@ -1,9 +1,20 @@
 # Food Log
 
+## 2024-07-28
+
+- Avocado, banana, strawberry shake
+
+## 2024-07-27
+
+- Sausage and Eggs
+- BBQ Brisket, pork ribs, sausage, cheese grits
+- Pot roast
+
 ## 2024-07-26
 
 - Banana peanut butter shake
 - Roast beef sandwich
+- Skirt steak with elotes
 
 ## 2024-07-25
 

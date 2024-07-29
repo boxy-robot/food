@@ -1,5 +1,10 @@
 # Food Log
 
+## 2024-07-29
+
+- Avocado, strawberry, mango shake
+-
+
 ## 2024-07-28
 
 - Avocado, banana, strawberry shake

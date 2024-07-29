@@ -3,6 +3,9 @@
 ## 2024-07-28
 
 - Avocado, banana, strawberry shake
+- Chips and queso
+- Kimchi fries with chicken
+- Korean fried nuggets
 
 ## 2024-07-27
 

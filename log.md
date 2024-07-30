@@ -1,9 +1,14 @@
 # Food Log
 
+## 2024-07-30
+-
+
 ## 2024-07-29
 
 - Avocado, strawberry, mango shake
--
+- Beef Jerky
+- Parmesan fries
+- Potstickers and General Tso's chicken
 
 ## 2024-07-28
 

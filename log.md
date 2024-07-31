@@ -1,7 +1,11 @@
 # Food Log
 
 ## 2024-07-30
--
+
+- Sausage and eggs
+- Tuna fish sandwich
+- Ice cream
+- Frito pie
 
 ## 2024-07-29
 

@@ -1,8 +1,21 @@
 # Food Log
 
+## 2024-08-01
+
+- Sausage and cheese grits
+- Peanut butter and jelly sandwich
+- Frito pie
+
+## 2024-07-31
+
+- Peanut butter banana shake
+- Frito pie
+- Wendy's double and nuggets
+
 ## 2024-07-30
 
 - Sausage and eggs
+- General Tso's chicken
 - Tuna fish sandwich
 - Ice cream
 - Frito pie
